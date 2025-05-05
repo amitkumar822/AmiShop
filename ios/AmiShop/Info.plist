@@ -53,6 +53,13 @@
 		<string>CormorantGaramond-Regular.ttf</string>
 		<string>Tinos-Bold.ttf</string>
 		<string>Tinos-Regular.ttf</string>
+
+		<string>MaterialCommunityIcons.ttf</string>
+		<string>EvilIcons.ttf</string>
+		<string>MaterialIcons.ttf</string>
+		<string>Ionicons.ttf</string>
+		<string>FontAwesome.ttf</string>
+		<string>AntDesign.ttf</string>
 	</array>
 </dict>
 </plist>
